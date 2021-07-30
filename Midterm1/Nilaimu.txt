@@ -1,0 +1,14 @@
+1D harusnya B
+28D harusnya C
+35B harusnya A
+48B harusnya C
+52C harusnya A
+73A harusnya D
+76C harusnya B
+84B harusnya C
+85B harusnya D
+98B harusnya D
+100D harusnya A
+137B harusnya A
+Nilaimu 91.42857142857143
+Bole la...
